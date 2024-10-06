@@ -1,0 +1,213 @@
+{
+    "pizza": {
+      "regular": {
+        "medium_14_inch": {
+          "price": 14
+        },
+        "large_16_inch": {
+          "price": 16
+        },
+        "gluten_free_12_inch_only": {
+          "price": 12
+        },
+        "cauliflower_10_inch_only": {
+          "medium": {
+            "price": 12
+          },
+          "large": {
+            "price":12
+          }
+        },
+        "sicilian": {
+         "medium": {
+            "price":12
+          },
+          "large": {
+            "price": 12
+          }
+        },
+        "topping_medium": {
+          "price": 12
+        },
+        "topping_large": {
+          "price": 2
+        }
+      },
+      "specialty_pizza": {
+        "palermo_pizza_special": {
+          "medium": {
+            "price": 19
+          },
+          "large": {
+            "price": 21
+          }
+        },
+        "margherita": {
+          "medium": {
+            "price": 18
+          },
+          "large": {
+            "price": 20
+          }
+        },
+        "veggie_pizza": {
+          "medium": {
+            "price": 19
+          },
+          "large": {
+            "price": 21
+          }
+        },
+        "capri_pizza": {
+          "medium": {
+            "price": 19
+          },
+          "large": {
+            "price": 21
+          }
+        },
+        "white_pizza_with_garlic": {
+          "medium": {
+            "price": 14
+          },
+          "large": {
+            "price": 16
+          }
+        },
+        "with_broccoli_tomatoes": {
+          "medium": {
+            "price": 19
+          },
+          "large": {
+            "price": 21
+          }
+        },
+        "chicken_bbq": {
+          "medium": {
+            "price": 19
+          },
+          "large": {
+            "price": 21
+          }
+        }
+      }
+    },
+    "stromboli": {
+      "sauce_and_cheese": {
+        "medium": {
+          "price": 15
+        },
+        "large": {
+          "price": 17
+        }
+      },
+      "italian_ham_and_salami": {
+        "medium": {
+          "price": 17
+        },
+        "large": {
+          "price": 19
+        }
+      }
+    },
+    "calzone": {
+      "cheese_calzone": {
+        "medium": {
+          "price": 15
+        },
+        "large": {
+          "price": 17
+        }
+      },
+      "ham_and_cheese_calzone": {
+        "medium": {
+          "price": 16
+        },
+        "large": {
+          "price": 18
+        }
+      }
+    },
+    "platters": {
+      "baked_ziti": {
+        "price": 16
+      },
+      "manicotti": {
+        "price": 16
+      },
+      "stuffed_shells": {
+        "price": 16
+      },
+      "meat_lasagna": {
+        "price": 16
+      },
+      "gnocchi": {
+        "with_pink_sauce": {
+          "price": 14
+        }
+      },
+      "chicken_parmigiana": {
+        "price": 18
+      },
+      "eggplant_parmigiana": {
+        "price": 16
+      },
+      "veal_parmigiana": {
+        "price": 18
+      }
+    },
+    "steaks": {
+      "plain_steak": {
+        "price": 9
+      },
+      "cheesesteak": {
+        "price": 9
+      },
+      "pizza_steak": {
+        "price": 10
+      },
+      "special_cheesesteak": {
+        "price": 10
+      }
+    },
+    "burgers": {
+      "hamburger": {
+        "price": 6
+      },
+      "cheeseburger": {
+        "price": 6
+      },
+      "california_cheeseburger": {
+        "price": 6
+      },
+      "bacon_cheeseburger": {
+        "price": 7
+      }
+    },
+    "seafood_platters": {
+      "butterfly_shrimp_9": {
+        "price": 14
+      },
+      "shrimp_in_a_basket": {
+        "price": 10
+      },
+      "flounder_fish_platter": {
+        "price": 11
+      }
+    },
+    "appetizer": {
+      "french_fries": {
+        "price": 5
+      },
+      "cheese_fries": {
+        "price": 6
+      },
+      "mozzarella_sticks": {
+        "price": 7
+      },
+      "onion_rings": {
+        "price": 6
+      }
+    }
+  }
+  
